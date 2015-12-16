@@ -64,7 +64,7 @@ int main(int argc, char *argv[])
 	int	rowA,columnsA,rowB,columnsB;
 	char ch;
 	srand((unsigned) time(NULL)); //產生亂數種子 
-	printf("START");
+	printf("START123");
 	printf("若要開始請按Enter\n");
 	ch=getch();
 	if(ch==13)
